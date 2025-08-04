@@ -1,38 +1,16 @@
-# 📊 Matplotlib - Python Data Visualization Library
+# 🎮 Tic-Tac-Toe – Python Console Game
 
-**Matplotlib** is a powerful and comprehensive Python library used for creating **static**, **animated**, and **interactive** visualizations. It is widely used for data exploration, storytelling, and presenting results in scientific and commercial applications.
+A simple and fun implementation of the classic **Tic-Tac-Toe** game (also known as **Noughts and Crosses**) in Python. Two players take turns placing **X** and **O** in a 3x3 grid. The first to align three symbols horizontally, vertically, or diagonally wins!
 
 ---
 
 ## 🌟 Features
 
-- **📈 Flexible Plotting Options**  
-  Create line plots, scatter plots, bar charts, histograms, pie charts, error bars, 3D plots, and more.
-
-- **🎨 Full Customization**  
-  Customize plot appearance: colors, markers, fonts, grid lines, ticks, labels, legends, annotations, and subplots.
-
-- **📦 Integration Friendly**  
-  Works seamlessly with **NumPy**, **Pandas**, **SciPy**, and **Jupyter Notebooks**.
-
-- **🖼️ Multiple Output Formats**  
-  Export to PNG, PDF, SVG, EPS, JPEG, and vector graphics for publications.
-
-- **🧭 Interactive Mode**  
-  Enable zooming, panning, and real-time updates using `%matplotlib notebook` or `matplotlib.widgets`.
-
-- **🎯 High-Quality Output**  
-  Produce publication-grade figures with fine-tuned layouts and resolution settings.
+- 👥 **Two Player Mode** – Play locally with a friend
+- 🧠 **Win & Draw Detection** – Automatic handling of game-ending conditions
+- 🖥️ **Text-Based UI** – Play via console input/output
+- 🔁 **Replay Option** – Play multiple rounds without restarting the script
 
 ---
 
-## 🧪 Installation
 
-### 📦 Using pip
-```bash
-pip install matplotlib
-
-
-🛠️ Technologies Used
-Python 3.x
-Basic console I/O
