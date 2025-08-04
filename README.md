@@ -1,10 +1,17 @@
-Tic-Tac-Toe Game
-Description
-This project implements the classic game of Tic-Tac-Toe in Python. Tic-Tac-Toe, also known as noughts and crosses or Xs and Os, is a two-player game where players take turns marking spaces in a 3x3 grid with their respective symbols (X or O). The objective is to form a line of three consecutive symbols horizontally, vertically, or diagonally.
+🎮 Tic-Tac-Toe (Python Console Version)
+A simple yet fun implementation of the classic Tic-Tac-Toe (also known as Noughts and Crosses) game using Python. Challenge a friend and relive the nostalgia in your terminal!
 
-Features
-Player vs Player: Play against another human player on the same computer, taking turns to make moves.
-Simple User Interface: The game interface is displayed in the console, making it easy to understand and play.
-Win Detection: Automatically detects when a player has won the game by forming a line of three consecutive symbols.
-Draw Detection: Recognizes when the game ends in a draw if all spaces on the board are filled without a winner.
-Restart Option: After completing a game, players have the option to restart and play again.
+🧩 Game Overview
+Tic-Tac-Toe is a two-player game where players take turns marking spaces in a 3x3 grid with X and O. The first player to align three of their symbols horizontally, vertically, or diagonally wins!
+
+🚀 Features
+✅ Player vs Player Mode – Two players can compete from the same console.
+🎨 Text-Based UI – Clean and clear console output for easy gameplay.
+🏆 Win Detection – Detects a winner automatically after each turn.
+🤝 Draw Logic – Identifies when no player wins and it's a draw.
+🔁 Play Again Option – Prompt to restart the game after a win or draw.
+
+🛠️ Technologies Used
+Python 3.x
+
+Basic console I/O
